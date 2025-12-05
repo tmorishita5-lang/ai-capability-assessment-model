@@ -1,98 +1,120 @@
-# AI Capability Assessment Model  
-**Proposed by Morishita (2025)**  
-A conceptual framework to evaluate why AI results differ significantly from person to person —  
-even when using the same model.
+AI Capability Assessment Model
 
----
+Proposed by Morishita (2025)
+A conceptual framework explaining why AI results differ significantly across users—even when using the same model.
 
-## 🔍 Overview  
-This repository introduces the **AI Capability Assessment Model**, a structured approach to understanding variations in AI performance among users.  
-Although advanced AI systems continue to evolve, **their effectiveness depends heavily on the capability of the person using them**.
+🔍 Overview
 
-This presentation explores a key question:
+This repository introduces the AI Capability Assessment Model, a structured approach to understanding why AI performance varies dramatically from person to person.
 
-> **Why do AI results differ from person to person  
-> even when the same AI is used?**
+Modern AI systems are powerful, but their output quality depends heavily on human capability:
 
-The model demonstrates that:
+Why do two people using the same AI get completely different results?
 
-- Even the best AI yields limited outcomes without effective utilization.
-- Human capability acts as the “unlock key” for extracting value from AI.
-- User capability determines whether AI output becomes *insight* or *noise*.
+Why does AI accelerate high performers but overwhelm others?
 
----
+What determines whether AI output becomes insight or noise?
 
-## 🧩 Model Description  
-The AI Capability Assessment Model proposes that AI performance is not solely determined by the model itself.  
-Instead, performance is **co-created** by both the AI system and the individual leveraging it.
+This model provides a clear, systematic answer.
 
-The model organizes capability into the following layers:
+🎯 Core Insight
 
-1. **Perception Capability**  
-   Ability to recognize problems, ask questions, and detect what matters.
+Even the most advanced AI produces limited results without effective human utilization.
 
-2. **Interpretation Capability**  
-   Ability to translate real-world issues into structured prompts and abstractions.
+Human capability is the key that unlocks all AI-driven value.
 
-3. **Operational Capability**  
-   Skill in applying AI tools efficiently and iteratively.
+AI performance is co-created by:
 
-4. **Integration Capability**  
-   Ability to connect AI outputs with context, strategy, and real-world decision-making.
+The model’s abilities, and
 
-These layers determine whether AI becomes:
+The user’s ability to leverage those abilities.
 
-- a productivity multiplier, or  
-- a superficial tool producing shallow or incorrect outputs.
+🧩 Model Structure
 
----
+The AI Capability Assessment Model organizes capability into four layers, each shaping the quality of AI-driven outcomes:
 
-## 🚀 Usage  
-This repository currently includes:
+1. Perception Capability
 
-- **Presentation slides (PPTX)** explaining the model  
-- Conceptual definitions and diagrams  
-- Exportable materials for internal discussions, lectures, or organizational adoption
+Ability to recognize problems, ask meaningful questions, and detect critical signals.
 
-Future updates may include:
+2. Interpretation Capability
 
-- Interactive diagrams  
-- Worksheets for capability self-assessment  
-- Prompt templates aligned with each capability layer
+Ability to translate complex real-world issues into structured prompts, abstractions, and context models.
 
----
+3. Operational Capability
 
-## 🧠 Background  
-As AI adoption accelerates, a recurring issue emerges:
+Skill in applying AI tools effectively—prompting, refining, decomposing tasks, and managing iterations.
 
-> “同じAIを使っているのに、成果がなぜこんなに違うのか？”
+4. Integration Capability
 
-This model provides a structured explanation grounded in:
+Ability to connect AI outputs with domain knowledge, strategy, decision-making, and execution.
 
-- Cognitive processing differences  
-- Question formulation skill  
-- Abstraction capability  
-- Real-world decision integration  
-- Feedback loop design
+🚀 Why This Matters
 
-In short:
+Depending on these four capabilities, AI becomes either:
 
-**AI is no longer the differentiator.  
-Human capability is.**
+✅ A productivity multiplier
 
----
+— enabling deeper insight, faster thinking, and higher-quality decisions
 
-## ✍️ Author  
-**Takashi Morishita**  
-Founder of the **AI Capability Assessment Model (2025)**  
-Business strategist / SME consultant / AI integration researcher  
+or
 
----
+❌ A superficial tool
 
-## 📄 License  
-MIT License — freely usable with attribution.
+— producing shallow, misaligned, or misleading outputs.
 
----
+This model explains why skill gaps widen with AI adoption rather than shrink.
 
-## 📬 Contact  
-For inquiries or collaboration opportunities, please reach out via GitHub.
+📘 Included in This Repository
+
+Presentation slides (PPTX) explaining the framework
+
+Conceptual diagrams and definitions
+
+Materials for internal training, education, or organizational rollout
+
+Planned updates
+
+Interactive visualizations
+
+Capability self-assessment worksheets
+
+Prompting templates mapped to each capability layer
+
+🧠 Background / Origin
+
+As AI adoption grows, organizations consistently observe:
+
+“Why do output quality and business impact differ so much, even when everyone uses the same AI?”
+
+This model is built on analysis of:
+
+Cognitive processing differences
+
+Question formulation skill
+
+Abstraction and decomposition ability
+
+Human–AI feedback loop design
+
+Context integration in decision-making
+
+AI is no longer the differentiator.
+Human capability is.
+
+👤 Author
+
+Takashi Morishita
+Founder of the AI Capability Assessment Model (2025)
+Business strategist / SME consultant / AI integration researcher
+
+📄 License
+
+MIT License — free to use, modify, and share with attribution.
+
+📬 Contact
+If you are interested in discussing the model, collaborating, or exchanging ideas,
+feel free to connect with me on LinkedIn:
+
+LinkedIn: https://www.linkedin.com/in/takashi-morishita-31530088/
+For questions, collaborations, or research discussions, please contact via GitHub.
